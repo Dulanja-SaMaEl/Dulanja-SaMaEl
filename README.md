@@ -34,14 +34,14 @@
 ---
 
 ### 💡 Most Used Languages  
-- **HTML**: 71.71%
-- **C#**: 90.71%
-- **Java**: 90.71%
-- **Reac-Native**: 90.71%
-- **CSS**: 7.27%  
-- **PHP**: 6.27%  
-- **TypeScript**: 2.04%  
-- **JavaScript**: 1.28%  
+- **HTML**: 100%
+- **C#**: 90%
+- **Java**: 95%
+- **Reac-Native**: 85%
+- **CSS**: 65%  
+- **PHP**: 70%  
+- **TypeScript**: 50%  
+- **JavaScript**: 90%  
 
 ---
 
